@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -29,4 +31,13 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Hash Table
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
