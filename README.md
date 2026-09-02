@@ -14,6 +14,7 @@
 | ------- |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/akshan-14/leetcodeakshan/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
