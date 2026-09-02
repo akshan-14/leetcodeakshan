@@ -6,6 +6,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/akshan-14/leetcodeakshan/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3875-construct-uniform-parity-array-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
