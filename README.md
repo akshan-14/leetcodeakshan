@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/akshan-14/leetcodeakshan/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0237-delete-node-in-a-linked-list) |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -83,6 +85,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/akshan-14/leetcodeakshan/tree/master/0027-remove-element) |
+| [0142-linked-list-cycle-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -105,4 +108,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
