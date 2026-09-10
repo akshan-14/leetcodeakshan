@@ -18,6 +18,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/akshan-14/leetcodeakshan/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/akshan-14/leetcodeakshan/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3875-construct-uniform-parity-array-i) |
@@ -46,11 +47,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshan-14/leetcodeakshan/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/akshan-14/leetcodeakshan/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
@@ -69,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/akshan-14/leetcodeakshan/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3875-construct-uniform-parity-array-i) |
@@ -92,4 +96,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshan-14/leetcodeakshan/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
