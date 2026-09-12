@@ -23,6 +23,7 @@
 | [0078-subsets](https://github.com/akshan-14/leetcodeakshan/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshan-14/leetcodeakshan/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshan-14/leetcodeakshan/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3875-construct-uniform-parity-array-i) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/akshan-14/leetcodeakshan/tree/master/0115-distinct-subsequences) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/akshan-14/leetcodeakshan/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshan-14/leetcodeakshan/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Graph Theory
 |  |
 | ------- |
@@ -108,10 +110,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshan-14/leetcodeakshan/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshan-14/leetcodeakshan/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
