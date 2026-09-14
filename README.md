@@ -9,6 +9,7 @@
 | [0203-remove-linked-list-elements](https://github.com/akshan-14/leetcodeakshan/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -95,6 +96,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/akshan-14/leetcodeakshan/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/0142-linked-list-cycle-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
