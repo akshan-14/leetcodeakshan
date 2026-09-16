@@ -75,6 +75,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/akshan-14/leetcodeakshan/tree/master/0115-distinct-subsequences) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/akshan-14/leetcodeakshan/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshan-14/leetcodeakshan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshan-14/leetcodeakshan/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Graph Theory
 |  |
@@ -89,6 +90,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/akshan-14/leetcodeakshan/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshan-14/leetcodeakshan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/akshan-14/leetcodeakshan/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3875-construct-uniform-parity-array-i) |
@@ -106,6 +108,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshan-14/leetcodeakshan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -159,4 +162,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0234-palindrome-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshan-14/leetcodeakshan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
