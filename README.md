@@ -63,6 +63,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshan-14/leetcodeakshan/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/akshan-14/leetcodeakshan/tree/master/0115-distinct-subsequences) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshan-14/leetcodeakshan/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
