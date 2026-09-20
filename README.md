@@ -120,6 +120,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/akshan-14/leetcodeakshan/tree/master/0115-distinct-subsequences) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/akshan-14/leetcodeakshan/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/akshan-14/leetcodeakshan/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
