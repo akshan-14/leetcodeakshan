@@ -31,6 +31,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshan-14/leetcodeakshan/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshan-14/leetcodeakshan/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -81,6 +82,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshan-14/leetcodeakshan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshan-14/leetcodeakshan/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3524-find-x-value-of-array-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/akshan-14/leetcodeakshan/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshan-14/leetcodeakshan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/akshan-14/leetcodeakshan/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshan-14/leetcodeakshan/tree/master/3875-construct-uniform-parity-array-i) |
