@@ -48,6 +48,7 @@
 | ------- |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/akshan-14/leetcodeakshan/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshan-14/leetcodeakshan/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -64,6 +65,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshan-14/leetcodeakshan/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -125,12 +127,14 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/akshan-14/leetcodeakshan/tree/master/0115-distinct-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/akshan-14/leetcodeakshan/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshan-14/leetcodeakshan/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +147,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshan-14/leetcodeakshan/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Floyd's Cycle Finding Algorithm
@@ -177,6 +182,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
 ## Combinatorics
 |  |
 | ------- |
