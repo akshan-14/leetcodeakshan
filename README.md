@@ -128,6 +128,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/akshan-14/leetcodeakshan/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshan-14/leetcodeakshan/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/akshan-14/leetcodeakshan/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
@@ -183,6 +184,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/akshan-14/leetcodeakshan/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
