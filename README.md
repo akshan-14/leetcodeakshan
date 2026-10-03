@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/akshan-14/leetcodeakshan/tree/master/0115-distinct-subsequences) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/akshan-14/leetcodeakshan/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/akshan-14/leetcodeakshan/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/akshan-14/leetcodeakshan/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/akshan-14/leetcodeakshan/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -217,6 +220,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akshan-14/leetcodeakshan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
