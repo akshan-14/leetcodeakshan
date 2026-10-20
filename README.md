@@ -25,6 +25,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/akshan-14/leetcodeakshan/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/akshan-14/leetcodeakshan/tree/master/0078-subsets) |
+| [0200-number-of-islands](https://github.com/akshan-14/leetcodeakshan/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/akshan-14/leetcodeakshan/tree/master/0835-image-overlap) |
@@ -45,11 +46,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/akshan-14/leetcodeakshan/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshan-14/leetcodeakshan/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/akshan-14/leetcodeakshan/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/akshan-14/leetcodeakshan/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/akshan-14/leetcodeakshan/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -58,10 +61,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/akshan-14/leetcodeakshan/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/akshan-14/leetcodeakshan/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/akshan-14/leetcodeakshan/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akshan-14/leetcodeakshan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
