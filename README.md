@@ -30,6 +30,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/akshan-14/leetcodeakshan/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/akshan-14/leetcodeakshan/tree/master/0835-image-overlap) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshan-14/leetcodeakshan/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshan-14/leetcodeakshan/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akshan-14/leetcodeakshan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/akshan-14/leetcodeakshan/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshan-14/leetcodeakshan/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshan-14/leetcodeakshan/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
