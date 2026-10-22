@@ -27,6 +27,7 @@
 | [0078-subsets](https://github.com/akshan-14/leetcodeakshan/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/akshan-14/leetcodeakshan/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/akshan-14/leetcodeakshan/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/akshan-14/leetcodeakshan/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/akshan-14/leetcodeakshan/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/akshan-14/leetcodeakshan/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -232,6 +233,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/akshan-14/leetcodeakshan/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshan-14/leetcodeakshan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshan-14/leetcodeakshan/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
